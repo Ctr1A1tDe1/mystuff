@@ -1,2 +1,3 @@
 # mystuff
-My learning resources
+My learning resources and code
+I am learning\self teaching Python, SQL, MY SQL
